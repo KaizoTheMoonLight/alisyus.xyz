@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+      <url>
+            <loc>https://alisyus.xyz/contact/</loc>
+            <lastmod>2022-09-26T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://alisyus.xyz/privacy/</loc>
+            <lastmod>2022-09-23T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://alisyus.xyz/</loc>
+            <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+            <priority>0</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://alisyus.xyz/posts/</loc>
+            <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://alisyus.xyz/posts/rice/</loc>
+            <lastmod>2022-06-10T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://alisyus.xyz/nekkocraft/</loc>
+            <lastmod>2022-09-25T00:00:00+00:00</lastmod>
+          </url>
+    
+  
+</urlset>

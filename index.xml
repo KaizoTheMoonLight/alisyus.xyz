@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alisyus</title>
+    <link>https://alisyus.xyz/</link>
+    <description>Recent content on Alisyus</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://alisyus.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://alisyus.xyz/contact/</link>
+      <pubDate>Tue, 23 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisyus.xyz/contact/</guid>
+      <description>Email: azairus.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://alisyus.xyz/privacy/</link>
+      <pubDate>Sun, 12 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisyus.xyz/privacy/</guid>
+      <description>The creator of https://alisyus.</description>
+    </item>
+    
+    <item>
+      <title>My Windows Rice</title>
+      <link>https://alisyus.xyz/posts/rice/</link>
+      <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisyus.xyz/posts/rice/</guid>
+      <description> </description>
+    </item>
+    
+    <item>
+      <title>Minecraft Server</title>
+      <link>https://alisyus.xyz/nekkocraft/</link>
+      <pubDate>Thu, 12 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisyus.xyz/nekkocraft/</guid>
+      <description>Welcome to my personal minecraft server, i have set this into a Hard Survival Multiplayer server</description>
+    </item>
+    
+  </channel>
+</rss>
