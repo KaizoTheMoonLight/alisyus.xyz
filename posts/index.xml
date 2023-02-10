@@ -6,14 +6,32 @@
     <description>Recent content in My Blog on Alisyus</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://alisyus.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://alisyus.xyz/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My 5 Favorite music of all time</title>
+      <link>https://alisyus.xyz/posts/top-5-music/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisyus.xyz/posts/top-5-music/</guid>
+      <description>Most of my favorite music is just rap.</description>
+    </item>
+    
+    <item>
+      <title>Why i love Pilot Hightech point V7</title>
+      <link>https://alisyus.xyz/posts/why-i-love-this-pen/</link>
+      <pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://alisyus.xyz/posts/why-i-love-this-pen/</guid>
+      <description>everytime i lost this pen i always order it.</description>
+    </item>
+    
     <item>
       <title>My Windows Rice</title>
       <link>https://alisyus.xyz/posts/rice/</link>
       <pubDate>Fri, 10 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://alisyus.xyz/posts/rice/</guid>
-      <description> </description>
+      <description>Just a hobby and great way to waste time.</description>
     </item>
     
   </channel>
